@@ -16,7 +16,6 @@ Les révisions du bac peuvent être denses. J'ai développé ce site pour offrir
 **Partagez-le avec le reste de la classe, et bon courage à tous pour le jour J ! 🍀**
 
 ## 💡 Conseils pour les révisions
-- Utilisez la section **"Fiche Auteurs"** pour mémoriser des citations précises.
 - Relisez bien les **"🧾 Conclusion"** en bas de chaque leçon, elles résument parfaitement le problème philosophique traité.
 
 ---
